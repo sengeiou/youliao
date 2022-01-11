@@ -1,0 +1,3 @@
+com\youliao\dubbo\server\pojo\RecommendUser.class
+com\youliao\dubbo\server\api\RecommendUserApi.class
+com\youliao\dubbo\server\vo\PageInfo.class

@@ -1,0 +1,7 @@
+com\youliao\commons\pojo\BasePojo.class
+com\youliao\commons\utils\Cache.class
+com\youliao\commons\enums\SexEnum.class
+com\youliao\commons\pojo\User.class
+com\youliao\commons\pojo\UserInfo.class
+com\youliao\commons\mapper\UserInfoMapper.class
+com\youliao\commons\mapper\UserMapper.class

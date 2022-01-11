@@ -1,0 +1,16 @@
+com\youliao\sso\handler\MyMetaObjectHandler.class
+com\youliao\sso\controller\PicUploadController.class
+com\youliao\sso\controller\SmsController.class
+com\youliao\sso\vo\ErrorResult$ErrorResultBuilder.class
+com\youliao\sso\config\AliyunSMSConfig.class
+com\youliao\sso\vo\ErrorResult.class
+com\youliao\sso\config\AliyunConfig.class
+com\youliao\sso\service\SmsService.class
+com\youliao\sso\service\PicUploadService.class
+com\youliao\sso\service\UserInfoService.class
+com\youliao\sso\controller\UserInfoController.class
+com\youliao\sso\service\FaceEngineService.class
+com\youliao\sso\service\UserService.class
+com\youliao\sso\controller\UserController.class
+com\youliao\sso\MyApplication.class
+com\youliao\sso\vo\PicUploadResult.class

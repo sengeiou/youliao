@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="my-youliao-sso" />
+        <module name="my-youliao-dubbo-interface" />
+        <module name="my-youliao-common" />
+        <module name="my-youliao-server" />
+        <module name="my-youliao-dubbo-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="my-youliao-common" options="-parameters" />
+      <module name="my-youliao-dubbo" options="" />
+      <module name="my-youliao-dubbo-interface" options="-parameters" />
+      <module name="my-youliao-dubbo-service" options="-parameters" />
+      <module name="my-youliao-server" options="-parameters" />
+      <module name="my-youliao-sso" options="-parameters" />
+      <module name="youliao" options="" />
+    </option>
+  </component>
+</project>
